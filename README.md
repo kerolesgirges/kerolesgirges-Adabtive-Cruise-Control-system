@@ -15,7 +15,7 @@ The project employs the following hardware components:
 
 Software Components:
 Software components used in the project:
-- Microchip IDE: Utilized to program the ATmega32 microcontroller using the C language.
+- eclipse IDE: Utilized to program the ATmega32 microcontroller using the C language.
 - MIT App Inventor: Employs visual programming to develop an Android smartphone app that communicates with the Bluetooth module. The app sends commands for speed and distance adjustments and displays real-time feedback.
 
 Usage Instructions:
@@ -25,5 +25,3 @@ To utilize this project, follow these steps:
 3. Install the MIT App Inventor on an Android device.
 4. Power on the system and smartphone app, then establish a Bluetooth connection.
 5. Begin enjoying the benefits of the adaptive cruise control system.
-
-An upcoming demo video will provide a visual presentation of the project's functionality.
